@@ -1,0 +1,24 @@
+Correlation results:,,,,,,,,
+Hours of Study per day vs CGPA,corr,0.003811572,slope,0.002332311,p_value,0.703120968,n,10000
+Average Sleep Hours vs CGPA,corr,-0.016068533,slope,-0.013253124,p_value,0.10810788,n,10000
+Daily Screen Time vs CGPA,corr,0.005320249,slope,0.003367077,p_value,0.5947522,n,10000
+Attendance Percentage vs CGPA,corr,0.000638214,slope,8.00E-05,p_value,0.949118825,n,10000
+,,,,,,,,
+Mean_by_Stress:,,,,,,,,
+Stress Level,count,mean,median,std,,,,
+High,2019,6.979656366,7.004465179,1.180488892,,,,
+Low,2977,7.015093636,7.006615745,1.213032068,,,,
+Medium,5004,7.029722208,7.050870189,1.205281423,,,,
+,,,,,,,,
+Mean_by_Extracurricular:,,,,,,,,
+Extracurricular Activities,count,mean,median,std,,,,
+No,6059,7.009831022,7.017530998,1.197970035,,,,
+Yes,3941,7.023604091,7.035909102,1.209964393,,,,
+,,,,,,,,
+Mean_by_Attendance_Bin:,,,,,,,,
+Attendance_Bin,count,mean,,,,,,
+<60,219,7.044838953,,,,,,
+60-75,2778,7.022679577,,,,,,
+75-85,4104,7.012927313,,,,,,
+85-95,2290,6.986938836,,,,,,
+95-100,609,7.092976461,,,,,,
